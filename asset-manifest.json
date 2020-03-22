@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/seattleweather/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/seattleweather/static/js/main.4cd36a06.chunk.js",
+    "main.js.map": "/seattleweather/static/js/main.4cd36a06.chunk.js.map",
+    "runtime-main.js": "/seattleweather/static/js/runtime-main.834b5e77.js",
+    "runtime-main.js.map": "/seattleweather/static/js/runtime-main.834b5e77.js.map",
+    "static/css/2.0c17c834.chunk.css": "/seattleweather/static/css/2.0c17c834.chunk.css",
+    "static/js/2.6ce9ebca.chunk.js": "/seattleweather/static/js/2.6ce9ebca.chunk.js",
+    "static/js/2.6ce9ebca.chunk.js.map": "/seattleweather/static/js/2.6ce9ebca.chunk.js.map",
+    "index.html": "/seattleweather/index.html",
+    "precache-manifest.2915b1fe001be86666acb0c452428ab3.js": "/seattleweather/precache-manifest.2915b1fe001be86666acb0c452428ab3.js",
+    "service-worker.js": "/seattleweather/service-worker.js",
+    "static/css/2.0c17c834.chunk.css.map": "/seattleweather/static/css/2.0c17c834.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/seattleweather/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.6ce9ebca.chunk.js.LICENSE.txt": "/seattleweather/static/js/2.6ce9ebca.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/seattleweather/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/seattleweather/static/media/fa-solid-900.cdfec5cf.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.834b5e77.js",
+    "static/css/2.0c17c834.chunk.css",
+    "static/js/2.6ce9ebca.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.4cd36a06.chunk.js"
+  ]
+}
