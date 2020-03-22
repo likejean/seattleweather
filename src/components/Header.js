@@ -16,19 +16,19 @@ function Header() {
         <Router>
             <MDBNavbar color="indigo" dark expand="md">
                 <MDBNavbarBrand>
-                    <strong className="white-text">Navbar</strong>
+                    <img style={{width: 100}} src='/assets/PASV.png' width="100px" alt='Smiley Face' />
                 </MDBNavbarBrand>
                 <MDBNavbarToggler onClick={toggleCollapse} />
-                <MDBCollapse id="navbarCollapse3" isOpen={open} navbar>
+                <MDBCollapse isOpen={open} navbar>
                     <MDBNavbarNav left>
                         <MDBNavItem active>
                             <MDBNavLink to="#!">Home</MDBNavLink>
                         </MDBNavItem>
                         <MDBNavItem>
-                            <MDBNavLink to="#!">Features</MDBNavLink>
+                            <MDBNavLink to="#!">Facebook</MDBNavLink>
                         </MDBNavItem>
                         <MDBNavItem>
-                            <MDBNavLink to="#!">Pricing</MDBNavLink>
+                            <MDBNavLink to="#!">PASV</MDBNavLink>
                         </MDBNavItem>
                         <MDBNavItem>
                             <MDBDropdown>

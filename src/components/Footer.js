@@ -8,15 +8,15 @@ function Header() {
             <MDBContainer fluid className="text-center text-md-left">
                 <MDBRow>
                     <MDBCol md="6">
-                        <h5 className="title">Lesson #1</h5>
+                        <h5 className="title">App Description</h5>
                         <p>
                             This is Homework for Lesson 1
                         </p>
-                        <h5 className="title">Author:</h5>
+                        <h5 className="title">Student:</h5>
                         <p>
                             Sergey Popach
                         </p>
-                        <h5 className="title">School:</h5>
+                        <h5 className="title">School Name:</h5>
                         <p>
                             Programming Academy in Silicon Valley
                         </p>
