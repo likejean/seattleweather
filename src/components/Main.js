@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-import PopoverPage from "./Popover";
-import Description from "./Description";
+
+import JumbotronPage from "./Jumbotron";
 import '../App.css';
 
 function Main() {
@@ -21,8 +21,7 @@ function Main() {
     }, []);
     return (
         <React.Fragment>
-            <Description data={data}/>
-            <PopoverPage />
+            <JumbotronPage data={data}/>
         </React.Fragment>
     );
 }
